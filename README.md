@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data analysis , Machine Learning, Python and Java**
+- 💬 Ask me about Python,Data Science,Machine Learning.
 
 - 📫 How to reach me **aprajita0019@gmail.com**
 
